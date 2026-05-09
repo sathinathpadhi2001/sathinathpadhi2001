@@ -129,8 +129,6 @@ CGPA: 8.46
 
 ---
 
-# 📈 GitHub Stats
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -138,7 +136,7 @@ CGPA: 8.46
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathinathpadhi2001&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=sathinathpadhi2001&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
