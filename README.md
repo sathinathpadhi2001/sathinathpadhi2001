@@ -131,18 +131,19 @@ CGPA: 8.46
 
 # 📈 GitHub Stats
 
+## 📈 GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sathinathpadhi2001&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sathinathpadhi2001&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sathinathpadhi2001&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathinathpadhi2001&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathinathpadhi2001&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathinathpadhi2001&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 <p align="center"> <img src="https://raw.githubusercontent.com/sathinathpadhi2001/sathinathpadhi2001/output/github-contribution-grid-snake.svg" /> </p>
 
