@@ -140,9 +140,12 @@ CGPA: 8.46
   <img src="https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sathinathpadhi2001/sathinathpadhi2001/output/github-contribution-grid-snake-dark.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sathinathpadhi2001/sathinathpadhi2001/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sathinathpadhi2001/sathinathpadhi2001/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/sathinathpadhi2001/sathinathpadhi2001/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
-
 # 🌐 Connect With Me
 
 <p align="left">
