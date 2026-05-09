@@ -144,6 +144,7 @@ CGPA: 8.46
 </p>
 
 ---
+<p align="center"> <img src="https://raw.githubusercontent.com/sathinathpadhi2001/sathinathpadhi2001/output/github-contribution-grid-snake.svg" /> </p>
 
 # 🌐 Connect With Me
 
