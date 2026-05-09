@@ -132,18 +132,16 @@ CGPA: 8.46
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sathinathpadhi2001&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/Python-Expert-1D9E75?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-Backend-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-AI-534AB7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI-GPT3.5-1D9E75?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-Frontend-378ADD?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sathinathpadhi2001&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/sathinathpadhi2001/sathinathpadhi2001/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathinathpadhi2001&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
----
-<p align="center"> <img src="https://raw.githubusercontent.com/sathinathpadhi2001/sathinathpadhi2001/output/github-contribution-grid-snake.svg" /> </p>
 
 # 🌐 Connect With Me
 
